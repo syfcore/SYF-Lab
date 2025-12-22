@@ -40,4 +40,8 @@ No feedback into the core is permitted.
 3. Navigate to individual repositories as needed
 
 ---
+
+This repository contains documentation only. No executable code, no contracts, no tokens.
+
+---
 **Machine World Only.**
