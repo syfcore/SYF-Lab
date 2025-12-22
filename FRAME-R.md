@@ -6,6 +6,23 @@
 
 ---
 
+## Role
+
+FRAME-R defines **how R exists outside the law**:
+- format
+- structure
+- encoding
+- temporal anchoring
+
+FRAME-R defines signal transport only.
+Inoculums are defined separately as read-only observers consuming framed signals.
+
+FRAME-R does not interpret R.  
+It does not act on R.  
+It does not modify R.
+
+---
+
 ## 1. Definition
 
 FRAME-R is the transport and structural framing layer for the invariant signal **R** produced by the SYF Core.
