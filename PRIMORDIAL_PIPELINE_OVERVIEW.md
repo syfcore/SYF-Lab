@@ -29,8 +29,6 @@ FRAME-R
     ↓
 SEW
     ↓
-HYDRA
-    ↓
 CoreXalt
 ```
 
@@ -50,10 +48,6 @@ Formatting, normalization, encoding only.
 ### SEW
 Passive observation.  
 Visualization and inspection without control.
-
-### HYDRA
-Active experimental system.  
-Applies stress while observing the law's response.
 
 ### CoreXalt
 Interface and adaptation layer.  

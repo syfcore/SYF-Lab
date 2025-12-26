@@ -24,7 +24,6 @@ The project follows a strict epistemological order:
 SYF Core   → law
 FRAME-R    → signal framing
 SEW        → passive observation
-HYDRA      → experimental stress
 CoreXalt   → interfaces & extensions
 ```
 

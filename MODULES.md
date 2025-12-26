@@ -5,12 +5,10 @@ their role, and their current visibility.
 
 | Module        | Role                              | Status     | Repository |
 |---------------|-----------------------------------|------------|------------|
-| SYF Core      | Law-bearing core                  | Public · Frozen | https://github.com/SYFCORP/SYF-Core |
+| SYF Core      | Law-bearing core                  | Public · Frozen | https://github.com/syfcore/SYF-Core |
 | FRAME-R       | Signal framing                    | Planned    | — |
 | SEW           | Passive observation               | Planned    | — |
-| HYDRA-AION    | Experimental stress system        | Private · Lab | — |
 | CoreXalt      | Interfaces & extensions           | Private · Planned | — |
-| Dizer         | Instrument / framework            | Private · Lab | https://github.com/SYFCORP/Dizer |
 
 ---
 
