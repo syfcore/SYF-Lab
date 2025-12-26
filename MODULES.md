@@ -5,10 +5,9 @@ their role, and their current visibility.
 
 | Module        | Role                              | Status     | Repository |
 |---------------|-----------------------------------|------------|------------|
-| SYF Core      | Law-bearing core                  | Public · Frozen | https://github.com/syfcore/SYF-Core |
-| FRAME-R       | Signal framing                    | Planned    | — |
-| SEW           | Passive observation               | Planned    | — |
-| CoreXalt      | Interfaces & extensions           | Private · Planned | — |
+| SYF Core      | Law-bearing core                  | Public · Frozen | https://github.com/syfcore |
+| FRAME-R       | Signal framing                    | Planned · Frozen | https://github.com/syfcore/SYF-Lab/blob/main/FRAME-R.md |
+| CoreXalt      | Interfaces & extensions           | Planned    | — |
 
 ---
 

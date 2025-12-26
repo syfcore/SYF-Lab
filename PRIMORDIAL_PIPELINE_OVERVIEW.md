@@ -25,11 +25,8 @@ An experiment must never modify the law.
 ```
 SYF Core
     ↓
-FRAME-R
-    ↓
-SEW
-    ↓
-CoreXalt
+FRAME-R / CoreXalt
+
 ```
 
 ---
@@ -44,10 +41,6 @@ Has no intent, no governance, no feedback.
 ### FRAME-R
 Defines how the signal exists outside the law.  
 Formatting, normalization, encoding only.
-
-### SEW
-Passive observation.  
-Visualization and inspection without control.
 
 ### CoreXalt
 Interface and adaptation layer.  
